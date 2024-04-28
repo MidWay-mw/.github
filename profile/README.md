@@ -10,6 +10,6 @@
 Trello > https://trello.com/b/fAOlX6zg/midway
 ## Websites
 Copyfy > https://copyfy.midway.ovh/<br>
-Artix > https://artix.midway.ovh/
-ReImager > https://reimager.midway.ovh/
+Artix > https://artix.midway.ovh/<br>
+ReImager > https://reimager.midway.ovh/<br>
 Aime > https://aime.midway.ovh/
